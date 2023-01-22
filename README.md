@@ -28,7 +28,7 @@ In Test Set: Below have fewer images with respect to other types
     Vascular lesion
 
 Pigmented benign keratosis has the dominant data
-
+## Model Metrics after data augmentation, Imbalance 
 ![Metrics](https://user-images.githubusercontent.com/40735287/213917070-de182045-4db2-4b9d-b54c-a0b142f94a9b.jpg)
 Further Learning without Over Fitting
 ![Metrics_1](https://user-images.githubusercontent.com/40735287/213917168-445e6d54-a4c0-46c5-9614-b9850bdaa970.jpg)
