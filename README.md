@@ -27,6 +27,8 @@ In Test Set: Below have fewer images with respect to other types
 
 Pigmented benign keratosis has the dominant data
 
+![Metrics](https://user-images.githubusercontent.com/40735287/213917070-de182045-4db2-4b9d-b54c-a0b142f94a9b.jpg)
+
 The Data had Imbalance and after handling the imbalance along with Drop outs, Data Augmentation, the Validation Accuracy improved and the Loss decreased.
 
 ## Technologies Used
